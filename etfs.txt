@@ -8,7 +8,6 @@ SMH
 PSI
 XSD
 TAN
-PSJ
 
 XNTK
 IGV
