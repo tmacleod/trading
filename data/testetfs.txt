@@ -1,4 +1,3 @@
-SOXX
 PBW
 QCLN
 PALL
