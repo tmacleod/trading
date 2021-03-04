@@ -1,4 +1,3 @@
-
 SOXX
 PBW
 QCLN
@@ -14,3 +13,4 @@ FXL
 LIT
 USO
 QQQ
+TLT
