@@ -1,4 +1,3 @@
-PBW
 QCLN
 PALL
 TAN
@@ -13,3 +12,4 @@ LIT
 USO
 QQQ
 TLT
+SOXX
