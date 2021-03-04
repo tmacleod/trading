@@ -1,4 +1,3 @@
-PALL
 TAN
 XSD
 HYG
@@ -13,3 +12,4 @@ QQQ
 TLT
 SOXX
 PBW
+QCLN
