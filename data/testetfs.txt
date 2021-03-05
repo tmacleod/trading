@@ -1,4 +1,3 @@
-USO
 QQQ
 TLT
 SOXX
@@ -13,3 +12,6 @@ SLV
 IYR
 CWB
 FXL
+LIT
+USO
+SOXL
