@@ -1,4 +1,3 @@
-LIT
 USO
 QQQ
 TLT
@@ -13,3 +12,4 @@ IAU
 SLV
 IYR
 CWB
+FXL
