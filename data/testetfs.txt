@@ -1,4 +1,3 @@
-IAU
 SLV
 IYR
 CWB
@@ -13,3 +12,4 @@ QCLN
 PALL
 TAN
 XSD
+HYG
