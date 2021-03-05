@@ -17,3 +17,4 @@ USO
 PSI
 QLD
 IGV
+VGT
