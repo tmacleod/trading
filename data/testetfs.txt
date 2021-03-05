@@ -1,4 +1,3 @@
-CWB
 FXL
 LIT
 USO
@@ -13,3 +12,4 @@ XSD
 HYG
 IAU
 SLV
+IYR
