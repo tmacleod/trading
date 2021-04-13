@@ -16,4 +16,3 @@ USO
 PSI
 IGV
 QLD
-IYR
