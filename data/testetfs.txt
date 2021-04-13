@@ -15,4 +15,3 @@ LIT
 USO
 PSI
 IGV
-QLD
