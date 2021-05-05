@@ -1,7 +1,4 @@
 BTC
 LTC
-ETC
 ETH
-BSV
-BCH
 DOGE
