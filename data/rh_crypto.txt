@@ -1,0 +1,7 @@
+DOGE
+ETC
+ETH
+BSV
+BCH
+BTC
+LTC
